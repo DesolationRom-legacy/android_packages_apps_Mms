@@ -111,4 +111,9 @@
     <string name="send_delay_30seconds">30 seconds</string>
     <string name="sent_countdown">Message delivery countdown</string>
 
+
+    <!-- Extra message options -->
+    <string name="message_share">Share</string>
+    <string name="message_share_intent_title">Share message</string>
+
 </resources>
