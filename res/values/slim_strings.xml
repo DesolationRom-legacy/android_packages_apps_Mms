@@ -46,5 +46,6 @@
 
     <!-- QM - Quick reply -->
     <string name="qm_quick_reply">Quick reply</string>
+    <string name="qm_mark_read">Read</string>
 
 </resources>
